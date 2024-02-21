@@ -14,7 +14,7 @@
 
 7. pip install -r requirements.txt
 
-8. python3 smsyocu.py
+8. python3 smsbayocu.py
 
 Kurulum bu kadar ardindan ekrandan devam edeceksiniz bol smsler 🤡
 
