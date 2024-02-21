@@ -8,7 +8,7 @@
 
 4. pkg install pip
 
-5. git clon ehttps://github.com/BayYocu1/SMSBOOMER.git
+5. git clone ehttps://github.com/BayYocu1/SMSBOOMER.git
 
 6. cd SMSBOOMER
 
