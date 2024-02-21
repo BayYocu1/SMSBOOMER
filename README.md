@@ -20,4 +20,4 @@ Kurulum bu kadar ardindan ekrandan devam edeceksiniz bol smsler 🤡
 
 ###
 
-![g-man-half-life](https://github.com/BayYocu1/Deneme/assets/96070521/301dfe39-0591-42f7-97b5-d4437c80d2a7)
+![g-man-half-life](https://github.com/BayYocu1/SMSBOOMER/assets/96070521/2be396ac-43a0-403b-b002-f0a871bfb918)
